@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19d7dcb7-15d4-42a3-a8fa-28ea138f2aca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="19d7dcb7-15d4-42a3-a8fa-28ea138f2aca" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,28 +28,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Docker.Dockerfile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06-05-2024 funciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08-05-24.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1 05 2024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.22-05-24.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LISTAS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.clase_lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.database.executor&quot;: &quot;Run&quot;,
-    &quot;Python.diccionario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ejercicios for.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mainn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.segundaclase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.yop.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Docker.Dockerfile.executor": "Run",
+    "Python.06-05-2024 funciones.executor": "Run",
+    "Python.08-05-24.executor": "Run",
+    "Python.1 05 2024.executor": "Run",
+    "Python.22-05-24.executor": "Run",
+    "Python.LISTAS.executor": "Run",
+    "Python.clase_lista.executor": "Run",
+    "Python.database.executor": "Run",
+    "Python.diccionario.executor": "Run",
+    "Python.ejercicio1.executor": "Run",
+    "Python.ejercicios for.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mainn.executor": "Run",
+    "Python.segundaclase.executor": "Run",
+    "Python.yop.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Usuario\PycharmProjects\claselunesnoche" />
