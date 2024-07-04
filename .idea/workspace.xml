@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19d7dcb7-15d4-42a3-a8fa-28ea138f2aca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-05-2024 funciones.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-05-24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 05 2024.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-05-24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-05-24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTAS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clase_lista.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desechos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diccionario.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios for.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yop.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
